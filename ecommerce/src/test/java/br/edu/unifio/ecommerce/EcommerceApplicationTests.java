@@ -1,10 +1,10 @@
-package com.matheus.ecommerce_backend;
+package br.edu.unifio.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceBackendApplicationTests {
+class EcommerceApplicationTests {
 
 	@Test
 	void contextLoads() {

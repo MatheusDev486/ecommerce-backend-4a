@@ -1,13 +1,13 @@
-package com.matheus.ecommerce_backend;
+package br.edu.unifio.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EcommerceBackendApplication {
+public class EcommerceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EcommerceBackendApplication.class, args);
+		SpringApplication.run(EcommerceApplication.class, args);
 	}
 
 }
